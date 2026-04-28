@@ -67,8 +67,7 @@ tests/
 **/*.spec.js
 
 # Linting
-.eslintcache
-.prettierignore
+
 
 # Misc
 .husky/
