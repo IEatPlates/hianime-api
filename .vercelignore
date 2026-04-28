@@ -39,7 +39,7 @@ Thumbs.db
 .gitignore
 
 # Dependencies (will be installed during build)
-
+node_modules/
 
 # Docker
 Dockerfile
